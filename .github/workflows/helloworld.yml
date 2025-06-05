@@ -35,7 +35,7 @@ jobs:
       - name: Hello
         run: echo "Hello World 1"
         shell: bash
-        
+
 #Workflow / Jobs
 
 jobs:
@@ -46,4 +46,4 @@ jobs:
       - name: Hello
         run: echo "Hello World 2"
         shell: bash
-        
+
